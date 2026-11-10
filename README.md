@@ -1,4 +1,4 @@
-# Adrián Pérez Anguita
+# Adrián Pérez
 
 Software developer in Spain. I work on Java and Spring Boot backends, and I build Python tools around language models.
 
